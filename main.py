@@ -1,8 +1,8 @@
 from math.int_func import my_int as mi, int_to_str as i2s
 
 if __name__ == '__main__':
-    n1 = input('number 1: ')
-    n2 = input('number 2: ')
+    n1 = input('Please, type number 1: ')
+    n2 = input('Please, type number 2: ')
     input_base = mi(input('Input base: '))
     output_base = mi(input('Output base: '))
 
