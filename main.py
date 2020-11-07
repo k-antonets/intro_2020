@@ -1,4 +1,4 @@
-from math.int_func import my_int as mi, int_to_str as i2s
+from mymath.int_func import my_int as mi, int_to_str as i2s
 
 if __name__ == '__main__':
     n1 = input('number 1: ')
